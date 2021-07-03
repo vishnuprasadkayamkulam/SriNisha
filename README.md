@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnuprasadkayamkulam&repo=PublicBot&theme=nightowl)](https://github.com/vishnuprasadkayamkulam/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnuprasadkayamkulam&repo=SriNisha&theme=nightowl)](https://github.com/vishnuprasadkayamkulam/SriNisha)
   </div>
     
 ## Setup
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnuprasadkayamkulam](https://github.com/Srinisha.jpg?size=60)](https://github.com/vishnuprasadkayamkulam) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![vishnuprasadkayamkulam](https://github.com/Srinisha01.jpg?size=60)](https://github.com/vishnuprasadkayamkulam) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [farhan-dqz](https://github.com/vishnuprasadkayamkulam)  | [ameer-kallumthodi](https://github.com/ameer-kallumthodi) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
