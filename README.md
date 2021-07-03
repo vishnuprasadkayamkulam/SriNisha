@@ -64,7 +64,7 @@ $ pkg install git
 $ git clone https://github.com/vishnuprasadkayamkulam/SriNisha
 $ cd SriNisha
 $ chmod +x *
-$ npm install @adiwajshing/baileys
+$ npm install github:adiwajshing/baileys
 $ npm install chalk
 $ node qr.js
 ```
@@ -92,9 +92,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnuprasadkayamkulam](https://github.com/Srinisha01.jpg?size=60)](https://github.com/vishnuprasadkayamkulam) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![vishnuprasadkayamkulam](https://github.com/Srinisha.jpg?size=100)](https://github.com/vishnuprasadkayamkulam) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[farhan-dqz](https://github.com/vishnuprasadkayamkulam)  | [ameer-kallumthodi](https://github.com/ameer-kallumthodi) | [afnanplk](https://github.com/afnanplk)
+[vishnuprasadkayamkulam](https://github.com/vishnuprasadkayamkulam)  | [ameer-kallumthodi](https://github.com/ameer-kallumthodi) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
