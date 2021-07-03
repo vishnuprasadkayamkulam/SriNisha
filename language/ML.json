@@ -27,13 +27,13 @@
         },
         "admin": {
             "BAN_DESC": "groupil nin arellum porth akaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
-            "BANNED": "Mwonu Ok Bie!",
+            "IM_NOT_ADMIN": "*chechi admin allada☹️*",
+            "BANNED": "Kadakku Puraththu😤!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "groupilott keteekn!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
-            "PROMOTED": "```admin aakki..!```",
+            "ALREADY_PROMOTED": "```Avan admin aada mone🙃```",
+            "PROMOTED": "```chechi admin aakki..!```",
             "PROMOTE_DESC": "oralle admin akkaan.",
             "DEMOTE_DESC": "admin sthanam edth kalaayan.",
             "ALREADY_NOT_ADMIN": "```admine njan engane veendum admin aakkum?```",
@@ -72,10 +72,10 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
-            "RESTART_MSG": "```punararambikkunu...```",
-            "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
-            "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
+            "RESTART_DESC": "\nRestart SriNisha\n",
+            "RESTART_MSG": "```Restart Cheyyatte Wait😄...```",
+            "SHUTDOWN_DESC": "\nShutdown SriNisha\n",
+            "SHUTDOWN_MSG": "```Chechi povaane...⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
             "DYNO_USED": "```Quota upayogichath```",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Pikachu Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*Chechikk🙋🏻‍♀️ Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*Updated aayittunde🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting..*"
+            "AFTER_UPDATE": "*😎 SriNisha🙋🏻‍♀️ Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
